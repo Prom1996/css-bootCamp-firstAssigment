@@ -1,0 +1,185 @@
+h1{
+    margin:0px;
+    font-size: 40px;
+}
+.center{
+    text-align: center;
+}
+
+/* <!-- 1st section Business Development  --> */
+.firstOutput{
+    background-color: #6CE299;
+    font-weight: 500;
+
+    
+    width: 600px;
+    height: 500px;
+    margin:40px auto;
+    border-radius: 10px;
+    padding :80px 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+
+.btn-firstOutput{
+    width:40%;
+    margin-top:20px;
+    border:none;
+    background-color: white;
+    padding: 15px 30px;
+    border-radius: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* <!-- 1st section Business Development End --> */
+
+
+/* 2nd Section -Your Profile Start  */
+.profile{
+    margin: 0 auto;
+    border: 1px solid lightgrey;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px 40px;
+    width: 600px;
+    box-sizing: border-box;
+}
+.profile h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.profile p {
+    color:darkgrey;
+    font-size: 22px;
+}
+.img-box {
+    
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    margin: 15px auto;
+    padding: 20px 70px; 
+
+}
+
+.see-profile {
+    box-sizing: border-box;
+    margin: 0px auto;
+    width: 600px;
+    border:1px solid lightgrey;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color:rgb(56, 113, 224);
+    padding: 0 40px;
+    font-size: 25px
+}
+/* 2nd Section -Your Profile End */
+
+/* 3nd Section -Google Photo Section Start  */
+.thirdOutput{
+    margin: 20px auto;
+    border:1px solid lightgrey;
+    border-radius: 10px;
+    width: 500px;
+    box-sizing: border-box;
+}
+
+.img-thirdOutput{
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  
+}
+
+.thirdOutputBody{
+    padding: 20px 40px;
+    font-size: 20px;
+    color:dimgray;
+}
+
+
+.header h2{
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-size:22px;
+    
+}
+
+.header i{
+    float: left;
+    margin-right: 10px;
+}
+
+.thirdOutputBody h3{
+    color:black;
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 500;
+
+}
+
+.btn-details {
+    margin-top: 30px;
+    font-size: 22px;
+    padding: 15px;
+    background-color: white;
+    border:1px solid lightgrey;
+    border-radius: 10px;
+    width: 50%;
+    color:rgb(56, 113, 224);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+
+/* 3rd Section -Google Photos section End  */
+
+
+/* 4th section FLodesk start */
+.fourth-Out {
+    width:400px;
+    margin: 120px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.fourth-Out h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.input-fourthOutput {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    font-size: 18px;
+    border: 1px solid lightgrey;
+}
+
+.btn-login {
+    margin: 25px;
+    width: 70%;
+    border-radius: 30px;
+    padding: 18px;
+    background-color: black;
+    color:white;
+    font-size: 18px;
+}
+
+.signUP {
+    color: grey;
+}
+
+.underline{
+    color:black;
+    text-decoration: underline;
+}
+
+.foot {
+    color: grey;
+}
+
+
